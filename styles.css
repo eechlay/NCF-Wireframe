@@ -1,13 +1,18 @@
 header{
 	height: 75px;
 }
-header img{
-		max-width: 200px;
+#logo{
+		max-height: 70px;
 		float: left;
 }
 
+header ul img{
+    max-height:50px;
+    margin-top:-20px;
+}
+
 header ul{
-	padding-top:30px;
+	padding-top:20px;
 	list-style: none;
 	position: relative;
 	display: inline-table;
@@ -20,7 +25,7 @@ header ul li{
 		display: block;
 		width: auto;
 		text-align: center;
-		padding: 0 0 10px 30px;
+		padding: 0 0 0 30px;
 		list-style: none;
 		font-family: "proxima-nova";
 		font-weight: 300;

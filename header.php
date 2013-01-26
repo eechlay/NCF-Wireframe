@@ -1,8 +1,8 @@
-<img src="/NCF-logo.gif">
+<img id="logo" src="/NCF-logo.gif">
 <ul id="headernav">
-     <li >Explore
+     <li id="map"><a href="map.php"><img src="/map-small.png"></a></li>
+     <li >Themes
           <ul>
-               <li><a href="map.php">By geography</a></li>
                <li><a href="conflict.php">Conflict</a></li>
                <li><a href="issue.php">Issue 2</a></li>
                <li><a href="issue.php">Issue 3</a></li>
@@ -22,7 +22,7 @@
                <li><a href="programme.php">Other Initiatives</a></li>
           </ul>
      </li>
-     <li><a href="people.html">People</a></li>
-     <li><a href="publications">Publications</a></li>
-     <li><a href="blog">Blog</a></li>
+     <li><a href="people.php">People</a></li>
+     <li><a href="publications.php">Publications</a></li>
+     <li><a href="blog.php">Blog</a></li>
 </ul>

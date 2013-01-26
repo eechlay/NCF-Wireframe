@@ -13,7 +13,7 @@
                     </header>
 
                     <div id="people">
-                    	   <p>Featured content</p>
+                    	   <img src="/people-page.gif">
                     </div>
                     <footer>
                     <?php include 'footer.php'; ?>
