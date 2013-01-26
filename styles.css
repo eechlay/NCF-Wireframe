@@ -1,0 +1,101 @@
+header{
+	height: 75px;
+}
+header img{
+		max-width: 200px;
+		float: left;
+}
+
+header ul{
+	padding-top:30px;
+	list-style: none;
+	position: relative;
+	display: inline-table;
+	float: right;
+	padding-right: 50px;
+}
+
+header ul li{
+		float: left;
+		display: block;
+		width: auto;
+		text-align: center;
+		padding: 0 0 10px 30px;
+		list-style: none;
+		font-family: "proxima-nova";
+		font-weight: 300;
+		font-size: 1em;
+		color: #17968A;
+}
+
+header ul a{
+		text-decoration: none;
+		color: #17968A;
+}
+
+header ul ul {
+	position: absolute; top: 100%;
+	background-color: #17968A;
+	padding: 0;
+	padding: 15px 25px 5px 25px;
+	display: none;
+}
+
+header ul li:hover ul { 
+	display:block;
+}
+
+header ul ul li {
+	float: none;
+	position: relative;
+	padding: 0;
+	font-size: 0.8em;
+	padding-bottom: 10px;
+	text-align: left;
+}
+
+header ul ul li a{
+	color: #FFFFFF;
+}
+
+#homepage{
+		height: 600px;
+		background-color: #F2F2ED;
+		width: 100%;
+		float: left;
+		margin-bottom: 20px;
+	}
+
+#homepage p{
+	float: center;
+	text-align: center;
+	line-height: 600px;
+}
+
+footer {
+	height: 50px;
+}
+
+footer ul{
+	margin:0;
+    padding-top: 40px;
+    position: relative;
+    text-align: center;
+}
+
+footer ul li{
+		display: inline;
+		padding-left: 20px;
+		list-style: none;
+		padding-bottom: 30px;
+		padding-top: 40px;
+		font-family: "proxima-nova";
+		font-size: 1em;
+		color: #17968A;
+
+}
+
+footer ul a{
+		text-decoration: none;
+		color: #17968A;
+}

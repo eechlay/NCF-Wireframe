@@ -12,7 +12,7 @@
                    <?php include 'header.php'; ?>
                     </header>
 
-                    <div id="homepage">
+                    <div id="people">
                     	   <p>Featured content</p>
                     </div>
                     <footer>
