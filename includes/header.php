@@ -49,7 +49,7 @@
 
                 <li><a href="people.php">People</a></li>
 
-                <li><a href="#">Publications</a></li>
+                <li><a href="publications.php">Publications</a></li>
 
                 <li><a href="#">Blog</a></li>
 
