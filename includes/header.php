@@ -17,7 +17,7 @@
             <ul id="headernav">
 
                 <li id="map">
-                    <a href="map.php">
+                    <a href="#">
                         <img src="/images/map-small.png" alt="" />
                     </a>
                 </li>
