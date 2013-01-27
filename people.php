@@ -4,7 +4,7 @@ require 'includes/header.php';
 
 
 <div id="people">
-    <img src="/page-images/people-page.gif" alt="" />
+    <img src="/page-images/people.gif" alt="" />
 </div>
 
 
